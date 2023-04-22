@@ -14,4 +14,4 @@
 ## 部分仿真截图.PNG
 展示了部分的仿真结果
 
-![图片]()
+![图片](https://raw.githubusercontent.com/yggycs/Montgomery_multiply/main/%E9%83%A8%E5%88%86%E4%BB%BF%E7%9C%9F%E6%88%AA%E5%9B%BE.PNG)
